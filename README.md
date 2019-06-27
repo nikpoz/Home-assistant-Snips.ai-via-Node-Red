@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=kpdakdll3Ac
 
 https://www.youtube.com/watch?v=YPdvFDm6lvE&t=6s
 
-## Link to Snips app. here: 
+### Link to Snips app. here: 
 
 https://console.snips.ai/store/en/skill_Y7YP2w6D1B
 
