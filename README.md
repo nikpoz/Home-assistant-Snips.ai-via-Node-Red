@@ -1,4 +1,4 @@
-# Home Assistant Snips.ai via Node-Red
+ # Home Assistant Snips.ai via Node-Red
 Manage mqqt messages produced by snips.ai app with node red.
 
 It currently supports turn_on,turn_off, color and brightness 
@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=kpdakdll3Ac
 
 https://www.youtube.com/watch?v=YPdvFDm6lvE&t=6s
 
-###COMING SOON
+### COMING SOON
 
 1) Turn_all_off_except flow. (Flow to allow the user turn a predifined group of entities off
 and turn on up to two entities in a single intent)
