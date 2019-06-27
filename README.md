@@ -1,4 +1,4 @@
- # Home Assistant Snips.ai via Node-Red
+# Home Assistant Snips.ai via Node-Red
 Manage mqqt messages produced by snips.ai app with node red.
 
 It currently supports turn_on,turn_off, color and brightness 
@@ -18,6 +18,8 @@ Demo of the flows here:
 https://www.youtube.com/watch?v=kpdakdll3Ac
 
 https://www.youtube.com/watch?v=YPdvFDm6lvE&t=6s
+
+## Link to Snips app. here: https://console.snips.ai/store/en/skill_Y7YP2w6D1B
 
 ### COMING SOON
 
