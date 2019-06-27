@@ -1,6 +1,3 @@
-
-
-
 # Home Assistant Snips.ai via Node-Red
 Manage mqqt messages produced by snips.ai app with node red.
 
@@ -19,6 +16,7 @@ https://gist.github.com/nikpoz/58000df888189c41e11a925a19d655bb
 Demo of the flows here:
 
 https://www.youtube.com/watch?v=kpdakdll3Ac
+
 https://www.youtube.com/watch?v=YPdvFDm6lvE&t=6s
 
 ###COMING SOON
