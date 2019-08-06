@@ -18,7 +18,14 @@ https://www.youtube.com/watch?v=YPdvFDm6lvE&t=6s
 Hass_turn_all_off_except:
 https://www.youtube.com/watch?v=TThgrf7SYZs
 
-### Node-Red flows here:
+### Node-Red flows:
+
+#### The full flow can be downloaded here:
+
+Home_Assistant_via_Node-Red:
+https://gist.github.com/nikpoz/a054b991579b3dd21df2371858601110
+
+#### Links to  each of the flows here:
 
 RGB_Hass_entities: 
 https://gist.github.com/nikpoz/9a77d251e07242cc9f61b3dde4dabb83
