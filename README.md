@@ -18,11 +18,16 @@ https://gist.github.com/nikpoz/f8cfdb55e0273dd997914bc4362285e1
 
 ### Demo of the flows here:
 
+https://www.youtube.com/watch?v=gdfClRixILM&t=3s
+
+Color and dim:
 https://www.youtube.com/watch?v=kpdakdll3Ac
 
+Two and three entities control:
 https://www.youtube.com/watch?v=YPdvFDm6lvE&t=6s
 
-https://www.youtube.com/watch?v=TThgrf7SYZs&t=2s
+Hass_turn_all_off_except:
+https://www.youtube.com/watch?v=TThgrf7SYZs
 
 ### Link to Snips app. here: 
 
